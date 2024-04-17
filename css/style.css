@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    min-height: 95vh;
+    background: linear-gradient(rgba(184, 158, 158, 0.63), rgba(235, 229, 229, 0.664)), url(..//imagini/photo1713372290.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    color: rgb(2, 78, 2);
+}
+div{
+    color: rgb(37, 5, 5);
+   
+} 
+header{
+    background-image: linear-gradient(rgb(75, 120, 75), rgb(132, 150, 132));
+    height: 50px;
+    
+}
+span{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 0;
+    left: 6px;
+    right: 0;
+    margin-bottom: 20px; 
+    top: 0;
+    margin-top: 20px;
+
+
+}
+footer{
+    background-image: radial-gradient( rgb(0, 128, 0), rgb(246, 127, 147));
+    height: 50px;
+    text-align: center;
+    color: black;
+  
+}
+main{
+    height: 90vh;}
+
+   
+.n{
+    text-align: center;
+    font-size: 18px;
+    
+}
+.mm{
+    font-size: 18px;
+    width: 90%;
+   margin-left: 100px;
+}
+.l{
+   
+    padding-top: 13px;
+
+}
+.conteiner{
+   overflow: auto;
+   position: relative;
+   background-color: rgb(128, 197, 179);
+   width: 120px;
+   height: 130px;
+   float: right;
+   margin-right: 40px;
+padding-left: 9px;
+
+  
+}
+.r{
+position: absolute;
+right: 2px;
+bottom: 1px;
+background-color: rgb(255, 255, 255);
+margin-top: 92px;
+height: 20px;
+}
+div.fixed {
+    position: fixed;
+    top: 10px;
+    right: 60px;
+    width: 40px;
+    
+   
+  }
+  img{
+    height: 70px;
+
+  }
